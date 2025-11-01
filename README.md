@@ -124,7 +124,7 @@ Bank should concentrate on improving Customer base in rural areas.
 
  1.Download or clone this repository: <br>
     - https://github.com/Sampathkumarpujari0806/bank-Customer-Segmentation-powerbi.git<br>
- 2.Open PowerBI_Dashboard.pbix in Power BI Desktop.<br>
+ 2.Open bank_customer_segmentation.pbix in Power BI Desktop.<br>
  3.Connect or refresh the dataset if needed.<br>
  4.Explore the dashboard and insights.
 

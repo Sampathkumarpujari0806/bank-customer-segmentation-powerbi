@@ -19,7 +19,7 @@ The goal is to identify loyal, new, and lost customers, uncover patterns in cust
 ---
 
 # 🧩 Dataset Description
-Dataset Name: bank_transactions.csv
+Dataset Name: bank_transactions.csv <br>
 The Key columns of Dataset are:
 
 | Column Name           | Description                                      |
@@ -137,7 +137,22 @@ Bank should concentrate on improving Customer base in rural areas.
 - Supported better decision-making through clear visualization of customer and transaction trends.
 
 ---
+# Conclusion
 
+- The dashboard helps understand customer behavior and segments effectively.
+- Lost customers form the largest group but still contribute major revenue.
+- New customers have the highest average revenue per person.
+- The analysis supports the bank in improving retention, loyalty, and profitability.
+- Overall, the project provides a clear view of customer performance for better business decisions.
+
+--- 
+# 👤 Author & Contact
+
+Author: Pujari Sampath Kumar <br>
+🎓 B.Tech                   <br>
+📧 Email: sampathsanju97@gmail.com<br>
+🔗 LinkedIn:http://www.linkedin.com/in/sampathkumarpujari<br>
+💻 GitHub: https://github.com/Sampathkumarpujari0806
 
 
 

@@ -129,6 +129,13 @@ Bank should concentrate on improving Customer base in rural areas.
  4.Explore the dashboard and insights.
 
 ---
+## 📊 Power BI File
+The Power BI dashboard file (`.pbix`) is available below:
+
+👉 [Download Bank Customer Segmentation Power BI File](https://drive.google.com/file/d/1ji6AZwu8tYMcDo_8HY32aauo2YN4zQfg/view?usp=sharing)
+
+---
+
 # 💼 Business Impact
 
 - Helped the bank identify loyal, lost, and new customers for better customer management.
